@@ -1,2 +1,2 @@
 # hallo
-Hai,apa anda bida intro di dini?
+Hai,apa anda bisa intro di dini?
